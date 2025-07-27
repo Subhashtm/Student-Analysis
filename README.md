@@ -22,7 +22,7 @@ A Python project to analyze student performance data from an Excel file using da
 ##  How to Run
 1. Clone this repo
 2. Ensure `matplotlib` and `openpyxl` are installed
-3. Run: `python student_analysis.py`
+3. Run: `python Student_Analysis.py`
 
 ##  Input
 - Excel file with student data (name, marks)
