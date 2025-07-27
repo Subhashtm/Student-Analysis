@@ -1,6 +1,6 @@
 # Student Data Analysis 
 
-A Python project to analyze student performance data from an Excel file using data visualization.
+Python project to analyze student performance data from an Excel file using data visualization.
 
 ##  What It Does
 - Reads student records from Excel
