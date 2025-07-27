@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Loads Excel data
-file_path = 'students.xlsx'  # Change if your file name is different
+file_path = 'students.xlsx'  
 df = pd.read_excel(file_path)
 
 # Calculates student average(BR)
